@@ -6,3 +6,4 @@ Tocón is a tool (and library; though probably not useful as such) written in Ru
 
 Copyright © 2018, Iwan van der Kleijn. Released under the MIT license.
 
+TEST
